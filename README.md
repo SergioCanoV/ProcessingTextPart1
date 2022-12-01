@@ -1,7 +1,7 @@
 # Processing Text: Part 1
 English grammar theory
 
-Understanding how computers can identify english grammar in text unstructured data.
+Understanding how computers can identify english grammar in text unstructured data using NLTK.
 
 Image 1:
 
